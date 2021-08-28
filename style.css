@@ -1,0 +1,93 @@
+/* * {background-color:rgb(141, 143, 156);
+ main{
+    background-color:rgb(141, 143, 156); */
+
+
+section img{
+    width: 1400px;
+    height:422px;
+}
+      p{
+          font-size: 30px;
+          text-align: center;
+          font-family: 'Zen Tokyo Zoo', cursive;
+      }
+      nav{
+          float:right;
+          text-decoration: underline;
+          margin-top: -15%;
+      }
+      ul {
+              list-style: square outside;
+              margin-left:  20px;
+              padding-left: 0;
+          }
+      
+      a{
+          text-decoration: none;
+          color:black;
+          float:left 50px;
+          font-size: 40px;
+          position: sticky;
+          background-color: rgb(18, 3, 85);
+          border: dashed;
+      }
+      .lin{
+          display:inline;
+          float:left 50px;
+      }
+      h2{
+          font-size: larger;
+          font-display:initial;
+          font-family: fantasy;
+      }
+      h1{
+          font-size: 40px;
+          border:10px solid #33345e88  ;
+      }
+      section{
+          margin-bottom: 29px;
+          border: solid rgb(29, 16, 102);
+      }
+      ol{
+          padding: 20px;
+          list-style-type: decimal;
+      }
+      li{
+      
+      
+          padding-right: 15px;
+          padding-bottom: 10px;
+      }
+      header{
+          background-color: rgb(51, 54, 88);
+          border: darkslategrey;
+          height: 40px;
+        padding: 50px 10px;
+        color: black;
+        text-align: center;
+        font-size: 90px;
+        font-weight: bold;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        transition: 0.2s;
+        
+      }
+      body{
+          background-color: rgb(110, 118, 184);
+      }
+      .lin{
+          margin-top: 100%;
+          /* margin-bottom: 10%; */
+          margin-right: 10%;
+      }
+      #jpg{
+        /* width: 37%;  */
+        margin-top: 10%;
+        /* position: center; */
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    height: 100px;
+      }
